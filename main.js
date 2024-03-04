@@ -9,7 +9,7 @@ Project outline (Pseudocode)
 */
 
 // intro message
-const intoMsg = "You have received this message because you have been chosen to open an important vault.. Here is the secret combination:";
+const introMsg = "You have received this message because you have been chosen to open an important vault.. Here is the secret combination:";
 
 // first code
 const code0 = 4 + 6; // 10
